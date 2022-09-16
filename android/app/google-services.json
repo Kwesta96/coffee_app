@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743037938673",
+    "project_id": "coffee-app-d9733",
+    "storage_bucket": "coffee-app-d9733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743037938673:android:18cf325b33d391453f3250",
+        "android_client_info": {
+          "package_name": "com.nexey.coffee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743037938673-iq5rc0r14q7hkertoil6hhvhr0o7it15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6GYJjWME52pD4H0_uCRl1hRev_oc6SlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743037938673-iq5rc0r14q7hkertoil6hhvhr0o7it15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
